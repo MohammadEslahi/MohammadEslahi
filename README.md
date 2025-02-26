@@ -3,7 +3,7 @@
 
 💻 I’m currently on the lookout for a role in backend web development, ideally writing Python and Django.
 
-🔗 You can follow me on LinkedIn: Click Here 🚀
+🔗 You can follow me on LinkedIn: [Click Here](https://www.linkedin.com/in/eslahi-mohammad/) 🚀
 <!--
 **MohammadEslahi/MohammadEslahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
