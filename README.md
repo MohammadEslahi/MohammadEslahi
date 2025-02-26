@@ -1,8 +1,9 @@
-. I've been enjoying backend development since i built my first Weather app. Maybe it's my childhood excitement of making some magic happen in the backstage, while viewers just see the results!
+✨ I've been enjoying backend development since I built my first Weather app. Maybe it's my childhood excitement of making 
+🎩some magic happen  in the backstage, while viewers just see the results!
 
-. I’m currently on the look out for a role in backend web development, ideally writing Python and Django.
+💻 I’m currently on the lookout for a role in backend web development, ideally writing Python and Django.
 
-. You can follow me on linkedin: https://www.linkedin.com/in/eslahi-mohammad/
+🔗 You can follow me on LinkedIn: Click Here 🚀
 <!--
 **MohammadEslahi/MohammadEslahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
