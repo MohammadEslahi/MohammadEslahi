@@ -1,5 +1,5 @@
-✨ I've been enjoying backend development since I built my first Weather app. Maybe it's my childhood excitement of making 
-🎩some magic happen  in the backstage, while viewers just see the results!
+✨ I've been enjoying backend development since I built my first Weather app. Maybe it's my childhood excitement of making
+some magic happen in the backstage, while viewers just see the results!
 
 💻 I’m currently on the lookout for a role in backend web development, ideally writing Python and Django.
 
